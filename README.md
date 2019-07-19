@@ -8,3 +8,5 @@ TODO: C++/CX version.
 C#
 JS.
 
+sprintf_s define requires include of <stdio.h>
+
